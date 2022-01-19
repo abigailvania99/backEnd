@@ -1,0 +1,6 @@
+//pluginManagement {
+//    repositories {
+//        maven{url "http://bcaartifactory.intra.bca.co.id:8080/artifactory/list/plugins.gradle.org/" }
+//    }
+//}
+rootProject.name = 'demo'
